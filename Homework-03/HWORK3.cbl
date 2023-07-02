@@ -185,8 +185,6 @@
 
        TRIM-DVZ-NAME.
            MOVE DVZ-NAME TO PRINT-DVZ.
-           DISPLAY "DVZ NAME : " DVZ-NAME.
-           DISPLAY "PRINT DVZ NAME : " PRINT-DVZ.
        TRIM-END. EXIT.
 
          UPDATE-BALANCE.
